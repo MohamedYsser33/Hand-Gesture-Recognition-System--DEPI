@@ -1,1 +1,1 @@
-# Sign-Language-DEPI
+#Hand Gesture Recognition System
